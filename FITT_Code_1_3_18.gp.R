@@ -1,4 +1,3 @@
-#Snapshot Code for data restructure and Analysis?
 
 rm(list = ls())   # Clear Workspace
 library(chron)
